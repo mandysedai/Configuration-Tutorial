@@ -1,0 +1,26 @@
+{
+    "frameSize": {
+        "width": 25.0,
+        "length": 30.0,
+        "bumperThickness": 3.25
+    },
+    "swerveManagerCan": {
+        "steerIDs": [
+            2,
+            4,
+            6,
+            8
+        ],
+        "driveIDs": [
+            1,
+            3,
+            5,
+            7
+        ]
+    },
+    "robotInfo": {
+        "name": "Henifer ",
+        "scientificName" : "Gallus gallus domesticus robotus fruitus bakerius",
+        "domain" : "FRC Arena"
+    }
+}

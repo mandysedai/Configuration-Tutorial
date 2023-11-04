@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<configuration>
+    <frameSize>
+        <width>25.0</width>
+        <length>30.0</length>
+        <bumperThickness>3.25</bumperThickness>
+    </frameSize>
+
+   <swerveManagerCan>
+        <steerID id="0">2</steerID>
+        <steerID id="1">4</steerID>
+        <steerID id="2">6</steerID>
+        <steerID id="3">8</steerID>
+        <driveID id="0">1</driveID>
+        <driveID id="1">3</driveID>
+        <driveID id="2">5</driveID>
+        <driveID id="3">7</driveID>
+    </swerveManagerCan>
+</configuration>
